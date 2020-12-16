@@ -1,0 +1,95 @@
+body {
+	font-size: 17px;
+	word-spacing: 4px;
+	font-family: "Geneva";
+	margin : 0;
+	padding : 30px;
+	height : 100%
+	width : 100%
+}
+
+header {
+	position: relative;
+	float: left;
+	max-width: 300px;
+	height: 1600px;
+	background-color: rgb(170 193 194);
+	color: rgb(52 56 56);
+	padding: 30px;
+	border-radius: 10px;
+}
+
+img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+	color: white;
+}
+
+h4 {
+	color: white;
+	text-align: center;
+	padding: 17px;
+	background-color: rgb(170 193 194);
+	border-radius: 10px;
+	letter-spacing: 2px;
+}
+
+p {
+	text-align: justify;
+}
+
+
+#Titre, h4 {
+	text-shadow: 3px 2px 8px black;
+	font-family: "American Typewriter";
+	letter-spacing: 1px;
+}
+
+.date {
+	font-style: italic;
+	font-size: 13px;
+	color: rgb(52 56 56);
+	margin-left: 100px;
+}
+
+.fonction {
+	color: rgb(69 98 98);
+	margin-left: 30px
+}
+
+#apropos p {
+	text-align: center;
+}
+
+#bloc {
+	position: relative;
+	margin-left: 390px;
+	color: rgb(52 56 56);
+}
+
+.date, .fonction {
+	display: inline;
+	font-weight: bold;
+	padding-top: 20px;
+}
+
+.lieu, .marge li  {
+	margin-left: 320px;
+}
+
+#container1, #container2 {
+	display: inline-block;
+	margin-left: 190px;
+}
+
+.lieu {
+	color: rgb(170 193 194);
+}
+
+.fonction, .lieu {
+	line-height: 3px;
+}
